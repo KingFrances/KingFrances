@@ -65,6 +65,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingfrances&" alt="kingfrances" /></h3>
 
 ###
