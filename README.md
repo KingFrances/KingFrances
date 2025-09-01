@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm King Frances from Davao City, Philippines<br><br>- 🔭 I’m working as an intern at (TBD)<br>- 📚 I'm currently learning full stack development.<br>- ⚡ In my free time I play games. Checkout trending technologies (sometimes).</p>
+<p align="left">I'm King Frances from Davao City, Philippines<br><br>- 🔭 I’m working as an intern at (TBD)<br>- 📚 I'm currently learning full stack development.<br>- ⚡ In my free time I play games, checkout trending technologies (sometimes).</p>
 
 ###
 
