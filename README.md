@@ -14,6 +14,8 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingfrances&label=Profile%20views&color=0e75b6&style=flat" alt="kingfrances" /> </p>
+
 
 ###
 
