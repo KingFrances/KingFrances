@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+### I am King Frances L. Luna, a BSIT student from the University of Mindanao
+
 <!--
 **KingFrances/KingFrances** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
